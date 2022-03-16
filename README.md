@@ -39,7 +39,7 @@ stack.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhilsingh38&show_icons=true&locale=en" alt="nikhilsingh38" /></p>
+  <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=nikhilsingh38&show_icons=true&locale=en" alt="nikhilsingh38" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsingh38&" alt="nikhilsingh38" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsingh38&" alt="nikhilsingh38" /></p>
 </div>
