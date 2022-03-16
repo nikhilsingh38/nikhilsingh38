@@ -14,8 +14,6 @@ stack.
 
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://nikhil-singh-nikhilsingh38.vercel.app/](https://nikhil-singh-nikhilsingh38.vercel.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@nikhilsingh3896](https://medium.com/@nikhilsingh3896)
 
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
