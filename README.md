@@ -18,7 +18,7 @@ stack.
 
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
 
-- 📫 How to reach me **nikhilsingh3896@gmail.com**
+- 📫 I am reached out @ **nikhilsingh3896@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hqtFsiqwXHnDYnNjcrmTd7WZVDLdwJoL/view?usp=sharing](https://drive.google.com/file/d/1hqtFsiqwXHnDYnNjcrmTd7WZVDLdwJoL/view?usp=sharing)
 
