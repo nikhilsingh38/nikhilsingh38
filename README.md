@@ -38,8 +38,4 @@ stack.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
- <div >
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=nikhilsingh38&show_icons=true&locale=en&theme=tokyonight" alt="nikhil" width="380" /></p>
-</div>
-
-<br/><br/><br/><br/>
+<a href="https://github.com/nikhilsingh38/github-readme-activity-graph"><img alt="Nikhil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nikhilsingh38&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
