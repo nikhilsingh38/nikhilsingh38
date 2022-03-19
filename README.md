@@ -1,5 +1,5 @@
 <h1>Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"> </h1>
-<h4 >I'm Nikhil Singh from Lucknow, India. Skilled in Full Stack Development, MERN, Javascript and its frameworks.</h4>
+<h4 >Hi, I'm Nikhil, currently located in Lucknow, India. I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.</h4>
 
 ## <h3 style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </h3> 
 
