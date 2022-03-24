@@ -2,7 +2,7 @@
 <h4 >Hi, I'm Nikhil, currently located in Lucknow, India. I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.</h4>
 
 ## <h3 style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </h3> 
-
+- A passionate and Goal-oriented Fullstack Web Developer with a keen interest to learn and improving skills.
 - 👨‍💻 My Portfolio - **[Nikhil Singh](https://nikhil-singh-nikhilsingh38.vercel.app/)**
 - 👨‍💻 My Resume - **[Resume](https://drive.google.com/file/d/1hqtFsiqwXHnDYnNjcrmTd7WZVDLdwJoL/view?usp=sharing)**
 
